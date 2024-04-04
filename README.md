@@ -10,7 +10,7 @@ Repo guide us to Implement basic Gen AI driven RAG Applications
 2. Looking into Rag_open notebook
 3. Understand the Rag_langchain with Azure Open AI here
 4. Dive in to advance notebook for understanding prompt templates & memory
-5. Finallyy, Use the Rag_with_feedback file for advanced implementation with streamlit as UI Interface.
+5. Finally, Use the Rag_with_feedback file for advanced implementation with streamlit as UI Interface.
 
 ## Input Files
 1.knn.pdf
